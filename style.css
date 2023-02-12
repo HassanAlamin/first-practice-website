@@ -15,6 +15,13 @@ body{
 h1{
     font-size: 70px;
 }
+h2{
+    font-size: 70px;
+    color: gray;
+}
+h3{
+    font-weight: 700;
+}
 .half-width{
     width: 50%;
     font-size: 25px;
@@ -22,7 +29,7 @@ h1{
     padding-top: 10%;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
 }
 .anchor{
     text-decoration: none;
@@ -42,10 +49,6 @@ h1{
     margin: 0;
     padding-top: 100px;
 }
-h2{
-    font-size: 70px;
-    color: gray;
-}
 .part-two img{
     width: 70%;
     padding-left: 40%;
@@ -53,15 +56,29 @@ h2{
 .part-two{
     width: 50%;
     padding-right: 20%;
+    font-size: 20px ;
 }
-.part-three{
+.two-three-mid{
     text-align: center;
 }
-.part-three p{
+.two-three-mid p{
     font-size: 20px;
 }
-.separate{
-    display: flex;
-    flex-direction: row;
-    width: 40%;
+.box{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 5%;
+
+}
+.recipie-box{
+    width: 50%;
+    font-size: 25px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.recipie-box img{
+    width: 100%;
 }
