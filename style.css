@@ -46,3 +46,22 @@ h2{
     font-size: 70px;
     color: gray;
 }
+.part-two img{
+    width: 70%;
+    padding-left: 40%;
+}
+.part-two{
+    width: 50%;
+    padding-right: 20%;
+}
+.part-three{
+    text-align: center;
+}
+.part-three p{
+    font-size: 20px;
+}
+.separate{
+    display: flex;
+    flex-direction: row;
+    width: 40%;
+}
