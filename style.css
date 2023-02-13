@@ -84,4 +84,19 @@ h3{
 }
 .forth-section{
     display: flex;
+    width: 80%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 50px black;
+    border-radius: 30px;
+    padding-left: 10%;
+}
+.one{
+    padding-left: 25%;
+}
+.two{
+    padding-left: 25%;
+}
+.forth-section p{
+    margin-top: -80px;
 }
